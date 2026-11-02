@@ -90,7 +90,7 @@ Our focus is on an accessible shopping experience, organized product collections
 **Brand:** FareedShop.pk  
 **Website:** https://www.fareedshop.pk/  
 **Market:** Pakistan  
-**Category:** E-commerce / Online Shopping
+**Category:** E-commerce /[ Online Shopping](https://imtiazcenter.pk/)
 
 ## Connect With FareedShop.pk
 
